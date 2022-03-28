@@ -4,12 +4,12 @@ To run the code for the api, open a terminal and use the following:
 ``` bash
 cd api
 npm install
-npm run
+npm start
 ```
 
 To run the code for the client, open a terminal and use the following:
 ``` bash
 cd client
 npm install
-npm run
+npm start
 ```
